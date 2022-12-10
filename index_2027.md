@@ -5,8 +5,8 @@ title: Jessica Payne's Resume
 # Jessica Payne
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="jen19007@byui.edu">jen19007@byui.edu</a>
+| <a href="https://github.com/jessicapayne95775">Jessica Payne's GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
