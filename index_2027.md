@@ -34,8 +34,6 @@ __Church of Jesus Christ of Latter-Day Saints__, Riverton, UT
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
 `May 2021-May 2022`
 __Full-Time Admissions Coordinator__, College of Eastern Idaho
 * With detail-orientation and precision, I process data from transcripts, test scores, and applications to admit perspective students.
